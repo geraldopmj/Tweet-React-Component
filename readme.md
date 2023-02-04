@@ -6,9 +6,6 @@ Repository for my first React project, where i make components based on tweeter.
 
 # Technology used:
 
-- HTML
-- CSS
-- JavaScript
 - React
 - Git e Github
 
